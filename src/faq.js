@@ -20,7 +20,7 @@ function Faq() {
       <div id="faqs" className="w-100 padding bg-secondary-light">
         <div className="container-lg">
           <div className="heading mx-auto text-center">
-            <h6 className="text-orange">FREQUENTLY ASKED QUESTIONS</h6>
+          <h2 className="mb-0">FREQUENTLY ASKED QUESTIONS</h2>
           </div>
           <div className="faqs-box">
             <div className="faqs_question">
